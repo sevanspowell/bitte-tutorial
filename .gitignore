@@ -1,0 +1,5 @@
+.terraform/
+cert.config
+config.tf.json
+result
+secrets/
